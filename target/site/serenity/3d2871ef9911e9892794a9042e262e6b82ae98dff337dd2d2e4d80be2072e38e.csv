@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users CURD test with steps","This will create a new Users ","SUCCESS","2022-06-06T23:48:54.755+01:00[Europe/London]","0.0","3.78"
+"Users CURD test with steps","Verify that the Users added in to stack","SUCCESS","2022-06-06T23:48:58.560+01:00[Europe/London]","0.0","0.87"
+"Users CURD test with steps","This will Updated created id","SUCCESS","2022-06-06T23:48:59.429+01:00[Europe/London]","0.0","1.68"
+"Users CURD test with steps","This will Delate created id","SUCCESS","2022-06-06T23:49:01.106+01:00[Europe/London]","0.0","1.65"
